@@ -17,9 +17,9 @@ const Header = () => {
           <a href="/" className="text-foreground hover:text-primary transition-colors">
             Home
           </a>
-          <a href="/services" className="text-foreground hover:text-primary transition-colors">
+          <Link to="/services" className="text-foreground hover:text-primary transition-colors">
             Services
-          </a>
+          </Link>
           <a href="/why-tekvian" className="text-foreground hover:text-primary transition-colors">
             Why Tekvian
           </a>          
