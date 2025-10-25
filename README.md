@@ -1,4 +1,4 @@
-# Welcome to your Lovable project: Tekvian.com
+# Welcome to your Lovable project: tekvian.com
 
 ## Project info
 
