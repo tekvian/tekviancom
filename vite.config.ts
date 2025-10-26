@@ -17,5 +17,6 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: mode === 'production' ? '/tekviancom/' : '/' // Updated for your repo subpath
+  base: '/'
+ // base: mode === 'production' ? '/tekviancom/' : '/' // Updated for your repo subpath
 }));
